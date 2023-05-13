@@ -6,9 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonasmar-dev&show_icons=true&theme=radical" alt="Jonasmar-dev's GitHub stats">
-</div>
-<div style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="Linguagens mais usadas">
-</div>
+

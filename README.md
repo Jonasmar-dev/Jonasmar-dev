@@ -13,6 +13,6 @@
   <img align="center" alt="html5" src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white>
 </div>
 
-
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
 
 

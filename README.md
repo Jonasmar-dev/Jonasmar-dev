@@ -3,7 +3,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jonas_mar)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-martins-77015b226)
 
-Desenvolvedor Back-End / PYTHON
+
+Desenvolvedor Back-End / PYTHON <br>
 Analista de Dados - SQL
 
 <div style="display: inline_block"><br/>
